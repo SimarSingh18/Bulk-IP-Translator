@@ -51,7 +51,7 @@ class App(tk.Tk):
         self.filename_label.place(relx=0.5, rely=0.7, anchor=tk.CENTER)
         # label 2
         self.result_label = tk.Label(self, text="", wraplength=700, font=("Calibri", 12))
-        self.result_label.place(relx=0.5, rely=0.8, anchor=tk.CENTER)
+        self.result_label.place(relx=0.5, rely=0.85, anchor=tk.CENTER)
 
 
     # Setup Logo
