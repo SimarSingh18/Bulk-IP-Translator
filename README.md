@@ -1,6 +1,6 @@
-# IP to DNS Converter
+# BIT (Bulk IP Address Translator)
 
-A simple desktop application that converts IP addresses to domain names using Python and the Tkinter GUI toolkit. The application allows users to select a CSV file containing IP addresses, processes the IP addresses to resolve their domain names, and saves the results to a new CSV file.
+A desktop application that converts IP addresses to domain names using Python and the Tkinter GUI toolkit. The application allows users to select a CSV file containing IP addresses, processes the IP addresses to resolve their domain names, and saves the results to a new CSV file.
 
 ## Features
 
